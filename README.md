@@ -83,10 +83,15 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IlyasaNandaRahmadianto&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <div align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=IlyasaNandaRahmadianto&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=darcula&locale=en&hide_border=false&order=1&custom_title=Stats%20Github" height="122" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IlyasaNandaRahmadianto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="129" alt="languages graph"  />
 </div>
 
 ###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasaNandaRahmadianto&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+
+###
 
 ---
