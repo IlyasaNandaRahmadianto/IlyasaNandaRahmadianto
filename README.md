@@ -27,7 +27,9 @@
 
 ###
 
-<p align="left">A recent graduate in Informatics Engineering from Institut Teknologi Adhi Tama Surabaya. I have the ability to work well in teams, stay focused on tasks, I am keen to apply my analytical skills and technical expertise to a frontend web development, UI/UX, machine learning role within a technology company, and have an interest in data analysis. My academic background has provided me with a solid foundation in data analysis, programming, and web programming.<br><br>During my studies, I was actively involved in Programming Language Laboratory as Laboratory Assistant, where I teaching structured programming practicums, data structures and also creating practicum learning modules. Additionally, I have some experience completing website projects with my team.<br><br>I am enthusiastic about leveraging my skills to contribute to innovative solutions in a technology-driven environment. Reach me out at ilyasananda16@gmail.com</p>
+<p align="left">A recent graduate in Informatics Engineering from Institut Teknologi Adhi Tama Surabaya. I have the ability to work well in teams, stay focused on tasks, I am keen to apply my analytical skills and technical expertise to a frontend web development, UI/UX, machine learning role within a technology company, and have an interest in data analysis. My academic background has provided me with a solid foundation in data analysis, programming, and web programming.<br><br>During my studies, I was actively involved in Programming Language Laboratory as Laboratory Assistant, where I teaching structured programming practicums, data structures and also creating practicum learning modules. Additionally, I have some experience completing website projects with my team.<br><br>I am enthusiastic about leveraging my skills to contribute to innovative solutions in a technology-driven environment. Reach me out at <br> <a href="mailto:ilyasananda16@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a></p>
 
 ###
 
