@@ -83,10 +83,10 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IlyasaNandaRahmadianto&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <br>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasaNandaRahmadianto&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 ###
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyasaNandaRahmadianto&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
