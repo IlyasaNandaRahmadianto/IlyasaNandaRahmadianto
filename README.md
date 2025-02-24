@@ -84,5 +84,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/IlyasaNandaRahmadianto/IlyasaNandaRahmadianto/output/snake.svg" alt="Snake animation" />
