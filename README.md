@@ -18,7 +18,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ilyasa+Nanda+Rahmadianto!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Ilyasa+Nanda+Rahmadianto!;" />
 </h1>
 
 ###
@@ -86,7 +86,7 @@
   <br> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IlyasaNandaRahmadianto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph"  />
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlyasaNandaRahmadianto&radius=16&theme=react&area=true&order=5" height="220" alt="activity-graph graph"  />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=IlyasaNandaRahmadianto&radius=16&theme=react&area=true&order=5" height="220" alt="activity-graph graph"  /> -->
 </div>
 
 ###
